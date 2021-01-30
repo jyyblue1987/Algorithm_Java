@@ -18,7 +18,8 @@ import java.util.Random;
 
 public class ChutesAndLaddersSTART {
     public static void main(String[] args) {
-        int numPlayers = Integer.parseInt(args[0]);
+//        int numPlayers = Integer.parseInt(args[0]);
+        int numPlayers = 3;
         StdOut.println("Welcome to Chutes and Ladders!");
         StdOut.println("This will be a " + numPlayers + " player game.");
         StdOut.println("The game begins now:");
@@ -37,7 +38,8 @@ public class ChutesAndLaddersSTART {
             int x = 1 + 1;                                                         // Do something else here to count/increment die rolls
         }
 
-        In in = new In("spacesSTART.txt");                                         // This can be changed to a different, local file with Digraph data in it
+//        In in = new In("spacesSTART.txt");                                         // This can be changed to a different, local file with Digraph data in it
+        In in = new In("spaces.txt");
         Digraph spacesDigraph = new Digraph(in);
         int winningSpace = spacesDigraph.V() - 1;
 
