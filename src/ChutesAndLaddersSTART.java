@@ -26,10 +26,11 @@ public class ChutesAndLaddersSTART {
 
         Integer[] playerSpace = new Integer[numPlayers];                           // Array to hold player's current space
         int dieRolls = 0;                                                          // Count of all times the die is rolled
-        // ???                                                                     // Make an array to hold count of player's rolls
-        // ???                                                                     // Make an array to hold most common die rolls
-        // ???                                                                     // Make an array to hold number of ladders a player climbs
-        // ???                                                                     // Make an array to hold number of chutes a player slides down
+        int [] dieRollsPalyer = new int[numPlayers];                               // Make an array to hold count of player's rolls
+        int [] dieRollResult = new int[6];                                         // Make an array to hold most common die rolls
+        int [][] dieRollPlayerResult = new int[numPlayers][6];
+        int [] climbed = new int[numPlayers];                                      // Make an array to hold number of ladders a player climbs
+        int [] slides = new int[numPlayers];                                       // Make an array to hold number of chutes a player slides down
 
         for (int j = 0; j < numPlayers; j++) {                                     // Initialize all the values in all arrays to 0
             playerSpace[j] = 0;
@@ -48,7 +49,12 @@ public class ChutesAndLaddersSTART {
             int player = i % numPlayers;                                           // Mathematically determines which player's turn it is by remainder
             Random r = new Random();                                               // Create a random number holder
             int roll = r.nextInt((6)) + 1;                                         // Create an integer to hold the random number & randomize
-            dieRolls++;                                                            // Increment times die has been rolled
+            dieRollResult[roll - 1]++;
+            dieRollPlayerResult[player][roll - 1]++;
+
+            dieRolls++;
+            dieRollsPalyer[player]++;
+            // Increment times die has been rolled
             //playerRolls[player]++;                                                 // Increment times player has rolled the die
             // commonDieRolls[roll * numPlayers - 1]++;                               // Increment this die roll in the array of die rolls per player
             StdOut.println("Player " + (player + 1) + " rolls a " + roll);
@@ -61,9 +67,11 @@ public class ChutesAndLaddersSTART {
                         if (playerSpace[player] < bigMove) {                           // If it's a ladder (player space is less than digraph space)
                             playerSpace[player] = bigMove;                             // move them forward.
                             StdOut.println("         Climbs ladder to space " + bigMove);
+                            climbed[player]++;
                         } else {                                                       // Otherwise, it's a chute (player space is more than digraph space)
                             playerSpace[player] = bigMove;                             // so move them back.
                             StdOut.println("         Slides down chute to space " + bigMove);
+                            slides[player]++;
                         }
                     }
                 }
@@ -79,11 +87,11 @@ public class ChutesAndLaddersSTART {
         StdOut.println();
         StdOut.println("Total die rolls for the game " + dieRolls);
         for (int z = 0; z < numPlayers; z++) {                                     // Loop through die roll stats
-            StdOut.println("Total die rolls for player " + (z + 1) + " is ???");   // Replace ??? with variable for player rolls
+            StdOut.println("Total die rolls for player " + (z + 1) + " is " + dieRollsPalyer[z]);   // Replace ??? with variable for player rolls
         }
         Integer[] commonDieRollsResults = new Integer[6];                          // Create "6-sided" array for each die value
         for (int w = 0; w < 6; w++) {                                              // Loop through common die roll results
-            commonDieRollsResults[w] = 0;                                          // You'll need to add all your player common die rolls here, rather than 0
+            commonDieRollsResults[w] = dieRollResult[w];                                          // You'll need to add all your player common die rolls here, rather than 0
         }
         int max = commonDieRollsResults[0];                                        // Create an integer to hold most-rolled die value
         int index = 0;
@@ -96,44 +104,40 @@ public class ChutesAndLaddersSTART {
         }
         StdOut.println();
         StdOut.println("Most common die roll for the game is " + (index + 1));
-        Integer[] commonDieRollsResults1 = new Integer[6];                         // Create a new die rolls results array for player 1
-        System.arraycopy(commonDieRollsResults, 0, commonDieRollsResults1, 0, 6);  // Copy your array that holds common die rolls, rather than
-        int max1 = commonDieRollsResults1[0];
-        int index1 = 0;
 
-        for (int p = 1; p < 6; p++) {                                              // Loop through to find it
-            if (max1 < commonDieRollsResults1[p]) {
-                max1 = commonDieRollsResults1[p];
-                index1 = p;
+        for(int i = 0; i < numPlayers; i++) {
+            for (int w = 0; w < 6; w++) {                                              // Loop through common die roll results
+                commonDieRollsResults[w] = dieRollPlayerResult[i][w];                   // You'll need to add all your player common die rolls here, rather than 0
             }
+            int max1 = commonDieRollsResults[0];
+            int index1 = 0;
+
+            for (int p = 1; p < 6; p++) {                                              // Loop through to find it
+                if (max1 < commonDieRollsResults[p]) {
+                    max1 = commonDieRollsResults[p];
+                    index1 = p;
+                }
+            }
+            StdOut.println("Most common die roll for player" + (i + 1) + " is " + (index1 + 1));
         }
-        StdOut.println("Most common die roll for player 1 is " + (index1 + 1));
-        if (numPlayers > 1) {                                                      // Do for each player
-            StdOut.println("Most common die roll for player 2 is " + 0);           // Do some calculations here to replace 0
-        }// Do some calculations here to replace 0
-        if (numPlayers > 2) {
-            StdOut.println("Most common die roll for player 3 is " + 0);           // Do some calculations here to replace 0
-        }
-        if (numPlayers > 3) {
-            StdOut.println("Most common die roll for player 4 is " + 0);           // Do some calculations here to replace 0
-        }
+
         StdOut.println();
         int gameLadders = 0;
         for (int l = 0; l < numPlayers; l++) {                                      // Sum game ladders climbed
-            gameLadders = gameLadders + 1;                                          // Do a calculation here to replace 1
+            gameLadders = gameLadders + climbed[l];                                          // Do a calculation here to replace 1
         }
         StdOut.println("Total ladders climbed for the game is " + gameLadders);
         for (int l = 0; l < numPlayers; l++) {
-            StdOut.println("Total ladders climbed for player " + (l + 1) + " is " + 0);  // Do a calculation here to replace 0
+            StdOut.println("Total ladders climbed for player " + (l + 1) + " is " + climbed[l]);  // Do a calculation here to replace 0
         }
         StdOut.println();
         int gameChutes = 0;                                                         // Sum game chutes slid
         for (int l = 0; l < numPlayers; l++) {
-            gameChutes = gameChutes + 1;                                            // Do a calculation here to replace 1
+            gameChutes = gameChutes + slides[l];                                            // Do a calculation here to replace 1
         }
         StdOut.println("Total chutes slid for the game is " + gameChutes);
         for (int l = 0; l < numPlayers; l++) {
-            StdOut.println("Total chutes slid for player " + (l + 1) + " is " + 0);  // Do a calculation here to replace 0
+            StdOut.println("Total chutes slid for player " + (l + 1) + " is " + slides[l]);  // Do a calculation here to replace 0
         }
         StdOut.println();
     }
