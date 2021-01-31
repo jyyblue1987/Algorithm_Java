@@ -19,6 +19,11 @@ import java.util.Random;
 public class ChutesAndLaddersSTART {
     public static void main(String[] args) {
         int numPlayers = Integer.parseInt(args[0]);
+        if( numPlayers < 1 || numPlayers > 4 )
+        {
+            StdOut.println("Player's Count should be between 1 and 4:");
+            return;
+        }
 //        int numPlayers = 3;
         StdOut.println("Welcome to Chutes and Ladders!");
         StdOut.println("This will be a " + numPlayers + " player game.");
