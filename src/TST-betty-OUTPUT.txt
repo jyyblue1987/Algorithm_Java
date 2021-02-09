@@ -1,0 +1,12 @@
+File has 30 unique words
+Most frequent word:
+Word "better" was used 6 times.
+Words that begin with("z"):
+
+Words that begin with("q"):
+
+Words that begin with("x"):
+
+Words that begin with("j"):
+
+Total processing Time: 0.01

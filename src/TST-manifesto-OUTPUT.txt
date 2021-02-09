@@ -1,0 +1,12 @@
+File has 3036 unique words
+Most frequent word:
+Word "the" was used 1036 times.
+Words that begin with("z"):
+zones;
+Words that begin with("q"):
+quantum quarter question question, question. quite
+Words that begin with("x"):
+
+Words that begin with("j"):
+join joined joins journeyman, journeymen, juridical jurisprudence just justification.
+Total processing Time: 0.071

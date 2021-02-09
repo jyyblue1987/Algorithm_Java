@@ -22,7 +22,6 @@ public class TSTTester {
         int word_count = 0;
         int max_count = 0;
         String word = "";
-        StdOut.println("keys(\"\"):");
 
         for (String key : st.keys()) {
             cnt = st.get(key);

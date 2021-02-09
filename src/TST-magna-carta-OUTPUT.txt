@@ -1,0 +1,12 @@
+File has 2070 unique words
+Most frequent word:
+Word "the" was used 922 times.
+Words that begin with("z"):
+
+Words that begin with("q"):
+quarrel quarrel, quarter"; quarter), quarter;" queen question quietly, quit
+Words that begin with("x"):
+
+Words that begin with("j"):
+join jointly judgement judgment judgment, judgments, justice justice, justice. justices justices, justices. justiciar justiciar, justiciaries justiciaries, justiciars justiciars,
+Total processing Time: 0.089

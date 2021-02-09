@@ -1,0 +1,12 @@
+File has 19695 unique words
+Most frequent word:
+Word "the" was used 7515 times.
+Words that begin with("z"):
+zealous
+Words that begin with("q"):
+quaint quainter qualified qualities; quality quality, qualms quantities quantity quarrel quarter quarter, quarter--a quarter. quartered, quartering quartering," quarters quarters. quarters; quash quavering quay queen queen, queer quench quest question question, question. question." question: question? question?" questionable questioned, questioned. questioner questioner, questioner. questions questions, questions. questions; quick quick!" quick, quickened quickened; quickening quicker quickest quickest. quickly quickly, quickly. quickly; quickness quickness, quiet quiet, quiet. quiet; quieted, quieter quieting quietly quietly, quit quite quite, quitted quivered quoth
+Words that begin with("x"):
+
+Words that begin with("j"):
+jack-boots jack-boots. jackal jackal, jackal; jaggedly jalousie-blinds jangle) jar jargon jarring jaw jaws jaws, jealous, jealously jerked jerked, jerks jerks, jerks." jest jesting jests; jewels jewels--I jingle jingling jinte job jobbing jocosely. join joined joined, joining joint joints. joints? joke joke, joke. joker joker's jolt, jolt--nodded jolted jolted, jostlement jostling journal journey journey!" journey's journey, journey. journey." journey; journey?" joy joy-ringing, joy. joyfully judge judge, judged judges judges, judgment judgment, judgment. judicious jug jumbled juncture juncture, junior, jury jury's jury, jury. jury; juryman's juryman, just justice justice, justice; justified justify justly
+Total processing Time: 0.35
