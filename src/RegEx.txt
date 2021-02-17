@@ -1,0 +1,8 @@
+"[\w-\.]+@([\w-]+\.)+[\w-]{2,4}" https://www.callutheran.edu/directory
+
+(GCC){26,} chromosome4.txt
+
+"[A-Z][^\\.;\\?\\!]*(\bperson\b|\bproletariat\b)[^\\.;\\?\\!]*" manifesto.txt
+
+
+"[A-Z][^\\.;\\?\\!]*bourgeois [a-z]*society[^\\.;\\?\\!]*" manifesto.txt

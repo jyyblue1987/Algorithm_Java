@@ -49,8 +49,14 @@ public class TSTTester {
             StdOut.println();
         }
 
+
+        StdOut.println("Longest Word:");
+        StdOut.println(st.longestPrefixOf("quality,"));
+        StdOut.println();
+
         double time = timer.elapsedTime();
         StdOut.println("Total processing Time: " + time);
     }
+
 
 }
