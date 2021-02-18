@@ -1,0 +1,735 @@
+1. java-algs4 Harvester "[\w-\.]+@([\w-]+\.)+[\w-]{2,4}" https://www.callutheran.edu/directory
+studentsuccess@callutheran.edu
+studentsuccess@callutheran.edu
+clureg@callutheran.edu
+clureg@callutheran.edu
+admissions@callutheran.edu
+admissions@callutheran.edu
+clugrad@callutheran.edu
+clugrad@callutheran.edu
+professionals@callutheran.edu
+professionals@callutheran.edu
+alumni@callutheran.edu
+alumni@callutheran.edu
+VisualArts@CalLutheran.edu
+autismcenter@callutheran.edu
+autismcenter@callutheran.edu
+BiologyDept@CalLutheran.edu
+BiologyDept@CalLutheran.edu
+jahall@callutheran.edu
+jahall@callutheran.edu
+casl@callutheran.edu
+casl@callutheran.edu
+global@callutheran.edu
+global@callutheran.edu
+spcs@callutheran.edu
+spcs@callutheran.edu
+cesi@callutheran.edu
+cesi@callutheran.edu
+ctl@callutheran.edu
+ctl@callutheran.edu
+ChemistryDept@CalLutheran.edu
+ChemistryDept@CalLutheran.edu
+clubs_orgs@callutheran.edu
+clubs_orgs@callutheran.edu
+TheCollege@callutheran.edu
+TheCollege@callutheran.edu
+CommDept@CalLutheran.edu
+CommDept@CalLutheran.edu
+ComputerScience@CalLutheran.edu
+ComputerScience@CalLutheran.edu
+commencement@callutheran.edu
+commencement@callutheran.edu
+cla@callutheran.edu
+cla@callutheran.edu
+csc@callutheran.edu
+csc@callutheran.edu
+Criminology-CriminalJustice@CalLutheran.edu
+Criminology-CriminalJustice@CalLutheran.edu
+earth-environmentalsciences@callutheran.edu
+earth-environmentalsciences@callutheran.edu
+educal@callutheran.edu
+educal@callutheran.edu
+EnglishDept@CalLutheran.edu
+EnglishDept@CalLutheran.edu
+ExerciseScience@CalLutheran.edu
+ExerciseScience@CalLutheran.edu
+film-tv@callutheran.edu
+film-tv@callutheran.edu
+finaid@callutheran.edu
+finaid@callutheran.edu
+earth-environmentalsciences@callutheran.edu
+earth-environmentalsciences@callutheran.edu
+GlobalStudies@CalLutheran.edu
+GlobalStudies@CalLutheran.edu
+helpdesk@callutheran.edu
+helpdesk@callutheran.edu
+HistoryDept@CalLutheran.edu
+HistoryDept@CalLutheran.edu
+helpdesk@callutheran.edu
+helpdesk@callutheran.edu
+intersession@callutheran.edu
+recsports@callutheran.edu
+recsports@callutheran.edu
+languages-cultures@callutheran.edu
+languages-cultures@callutheran.edu
+mathcenter@callutheran.edu
+mathcenter@callutheran.edu
+MathDept@CalLutheran.edu
+MathDept@CalLutheran.edu
+mcnairscholars@callutheran.edu
+mcnairscholars@callutheran.edu
+kgrennan@callutheran.edu
+kgrennan@callutheran.edu
+MediaRequests@callutheran.edu
+MediaRequests@callutheran.edu
+VisualArts@callutheran.edu
+VisualArts@callutheran.edu
+Music@callutheran.edu
+Music@callutheran.edu
+osrp@callutheran.edu
+osrp@callutheran.edu
+our@callutheran.edu
+our@callutheran.edu
+recsports@callutheran.edu
+recsports@callutheran.edu
+seminaryrelations@plts.edu
+seminaryrelations@plts.edu
+libcirc@callutheran.edu
+libcirc@callutheran.edu
+PhilosophyDept@CalLutheran.edu
+PhilosophyDept@CalLutheran.edu
+Physics@CalLutheran.edu
+Physics@CalLutheran.edu
+PoliticalScience@CalLutheran.edu
+PoliticalScience@CalLutheran.edu
+acabado@callutheran.edu
+acabado@callutheran.edu
+chess@callutheran.edu
+chess@callutheran.edu
+Psychology@CalLutheran.edu
+Psychology@CalLutheran.edu
+clureg@callutheran.edu
+clureg@callutheran.edu
+ReligionDept@CalLutheran.edu
+ReligionDept@CalLutheran.edu
+reslife@callutheran.edu
+reslife@callutheran.edu
+spcs@callutheran.edu
+spcs@callutheran.edu
+som@callutheran.edu
+som@callutheran.edu
+Sociology@CalLutheran.edu
+Sociology@CalLutheran.edu
+staffcommittee@callutheran.edu
+staffcommittee@callutheran.edu
+stuaccts@callutheran.edu
+stuaccts@callutheran.edu
+reslife@callutheran.edu
+reslife@callutheran.edu
+asclupres@callutheran.edu
+asclupres@callutheran.edu
+studentunion@callutheran.edu
+studentunion@callutheran.edu
+studyabroad@callutheran.edu
+studyabroad@callutheran.edu
+summer@callutheran.edu
+summer@callutheran.edu
+Theatre-Dance@CalLutheran.edu
+Theatre-Dance@CalLutheran.edu
+marketing@callutheran.edu
+marketing@callutheran.edu
+veterans@callutheran.edu
+veterans@callutheran.edu
+VisualArts@callutheran.edu
+VisualArts@callutheran.edu
+web@callutheran.edu
+web@callutheran.edu
+
+2. java-algs4 Harvester "(http(s)?:\/\/.)(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)" https://www.callutheran.edu/directory
+https://www.callutheran.edu/directory/
+http://schema.org
+http://www.callutheran.edu
+https://plus.google.com/110497367423793660013
+https://www.googletagmanager.com/gtm.js?id=
+https://myclu.callutheran.edu/
+http://careers.callutheran.edu
+https://www.clusports.com/
+https://www.clusports.com/
+https://www.clusports.com/recruits/
+https://www.clusports.com/recruits/facilities/
+https://www.clusports.com/victory-club/
+http://www.clugift.org/
+http://www.clusports.com
+https://callutheran.sodexomyway.com/people/index.html
+http://www.clucerf.org/
+http://www.clucounseling.org/
+https://www.cluecho.com/
+http://www.clugift.org/
+http://www.kclu.org
+http://www.plts.edu
+https://callutheran.sodexomyway.com/
+https://callutheran.sodexomyway.com/people/index.html#top
+http://www.clusports.com/
+https://www.callutheran.edu/_resources/img/logo/stacked-reverse.svg
+https://www.facebook.com/callutheran
+https://www.twitter.com/callutheran
+https://www.instagram.com/callutheran
+https://www.linkedin.com/school/california-lutheran-university/
+https://www.youtube.com/user/callutheran
+https://www.callutheran.edu/bookstore
+http://careers.callutheran.edu/
+https://snap.licdn.com/li.lms-analytics/insight.min.js
+https://dc.ads.linkedin.com/collect/?pid=188404&fmt=gif
+https://cms.callutheran.edu/10?skin=oucampus&amp
+https://www.callutheran.edu/directory/
+
+3. java-algs4 Harvester "(\+\d{1,2}\s?)?1?\-?\.?\s?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}" https://www.callutheran.edu/directory
+7220042804
+11049736742
+3793660013
+1613151762
+1612551501
+(805) 493-3145
+(805) 493-3260
+(805) 493-3105
+(805) 493-3164
+(805) 493-3135
+(805) 493-3325
+(805) 493-3325
+(805) 493-3170
+(805) 493-3400
+(805) 493-3543
+(805) 493-3385
+(805) 493-3987
+(805) 493-3180
+(805) 493-3203
+(805) 493-3951
+(805) 493-2411
+(805) 493-3228
+(805) 493-3208
+(805) 493-3911
+(805) 493-3200
+(805) 493-3195
+(805) 493-3270
+(805) 493-3489
+(805) 493-3724
+(805) 493-3694
+(805) 493-3668
+(805) 493-3750
+(805) 493-3928
+(805) 493-3740
+(805) 493-3260
+(805) 493-3360
+(805) 493-3338
+(805) 493-3936
+(805) 493-3950
+(805) 493-3015
+(805) 493-3321
+(805) 493-3364
+(805) 493-3390
+(805) 493-3059
+(805) 493-3151
+(805) 493-3981
+(805) 493-3543
+(805) 493-3727
+(805) 493-3484
+(805) 493-3829
+(805) 493-3464
+(805) 493-3247
+(805) 493-3265
+(805) 493-3465
+(805) 493-3962
+(805) 493-3245
+(805) 493-3166
+(805) 493-3845
+(805) 493-3215
+(805) 493-3115
+(805) 493-3523
+(805) 493-3160
+(805) 493-3434
+(805) 493-3436
+(805) 493-3400
+(805) 493-3565
+(805) 493-3723
+(805) 493-3421
+(805) 493-3225
+(805) 493-3698
+(805) 493-3319
+(805) 493-3215
+(805) 493-3185
+(805) 493-3698
+(805) 493-3951
+(805) 493-3523
+(805) 493-3900
+(805) 493-3316
+(805) 493-3476
+(805) 493-3188
+(805) 493-3673
+(805) 493-3749
+(805) 493-3322
+(805) 493-3512
+(805) 493-3820
+(805) 493-3589
+(805) 493-3241
+(805) 493-3305
+(805) 493-3743
+(805) 493-3796
+(805) 493-3220
+(805) 493-3050
+(510) 524-5264
+(805) 493-3961
+(805) 493-3187
+(805) 493-3250
+(805) 493-3235
+(805) 493-3984
+(805) 493-3477
+(805) 493-3100
+(805) 493-3190
+(805) 493-3454
+(805) 493-3105
+(805) 493-3039
+(805) 493-3220
+(805) 241-0391
+(805) 493-3928
+(805) 493-3360
+(805) 493-3239
+(805) 493-3437
+(805) 493-3205
+(805) 493-3349
+(805) 493-3153
+(805) 493-3173
+(805) 493-3553
+(805) 493-3220
+(805) 493-3279
+(805) 493-3462
+(805) 493-3197
+(805) 493-3535
+(805) 493-3302
+(805) 493-3750
+(805) 493-3121
+(805) 493-3452
+(805) 493-3158
+(805) 493-3151
+(805) 493-3350
+(805) 493-3568
+(805) 493-3317
+(805) 493-3648
+(805) 493-3628
+(805) 493-3570
+(805) 493-3697
+(805) 493-3070
+(805) 493-3257
+(805) 492-2411
+1613151762
+
+4. java-algs4 Harvester "[A-Z][^\\.;\\?\\!]*\bVengeance\b[^\\.;\\?\\!]*." tale.txt
+The short, rather plump wife of a
+starved grocer, and the mother of two children withal, this lieutenant
+had already earned the complimentary name of The Vengeance.
+The Vengeance.
+The Vengeance stooped, and the jar of
+a drum was heard as she moved it at her feet behind the counter.
+The Vengeance, uttering terrific shrieks, and flinging her arms about
+her head like all the forty Furies at once, was tearing from house to
+house, rousing the women.
+The Defarges, husband and wife, The Vengeance,
+and Jacques Three, were in the first press, and at no great distance
+from him in the Hall.
+Defarge
+had but sprung over a railing and a table, and folded the miserable
+wretch in a deadly embrace--Madame Defarge had but followed and turned
+her hand in one of the ropes with which he was tied--The Vengeance
+and Jacques Three were not yet up with them, and the men at the windows
+had not yet swooped into the Hall, like birds of prey from their high
+perches--when the cry seemed to go up, all over the city, "Bring him
+out!
+Saint Antoine slept, the Defarges slept:  even The Vengeance slept with
+her starved grocer, and the drum was at rest.
+The
+Vengeance, as custodian of the drum, could have wakened him up and had
+the same speech out of him as before the Bastille fell, or old Foulon
+was seized;
+The Vengeance.
+The lady in question, whose rooted conviction that she was more than
+a match for any foreigner, was not to be shaken by distress and,
+danger, appeared with folded arms, and observed in English to The
+Vengeance, whom her eyes first encountered, "Well, I am sure, Boldface!
+Madame Defarge looked, coldly as ever, at the suppliant, and said,
+turning to her friend The Vengeance:
+
+"The wives and mothers we have been used to see, since we were as
+little as this child, and much less, have not been greatly
+considered?
+We have seen nothing else," returned The Vengeance.
+The Vengeance followed.
+A moment
+afterwards, and a throng of people came pouring round the corner by
+the prison wall, in the midst of whom was the wood-sawyer hand in
+hand with The Vengeance.
+It was The Vengeance who, amidst the warm commendations of the
+audience, thus assisted the proceedings.
+The Vengeance, warming with encouragement, shrieked,
+"I defy that bell!
+Madame Defarge,
+smiling to The Vengeance.
+The Vengeance assisted
+in the conversation, like a regular member of the establishment.
+The amiable Vengeance added, with a laugh, "Yes,
+my faith!
+The Vengeance, also, highly
+approved.
+The Vengeance, and embraced her.
+XIV
+
+The Knitting Done
+
+
+In that same juncture of time when the Fifty-Two awaited their fate
+Madame Defarge held darkly ominous council with The Vengeance and
+Jacques Three of the Revolutionary Jury.
+There is no better," the voluble Vengeance protested in her shrill
+notes, "in France.
+Peace, little Vengeance," said Madame Defarge, laying her hand with
+a slight frown on her lieutenant's lips, "hear me speak.
+The Vengeance and Jacques Three vied with each other in their fervent
+protestations that she was the most admirable and marvellous of
+witnesses.
+Madame Defarge beckoned the Juryman and The Vengeance a little nearer
+to the door, and there expounded her further views to them thus:
+
+"She will now be at home, awaiting the moment of his death.
+The Vengeance;
+I willingly obey the orders of my Chief," said The Vengeance with
+alacrity, and kissing her cheek.
+Be sure you are there, my soul,"
+said The Vengeance, calling after her, for she had already turned
+into the street, "before the tumbrils arrive!
+The Vengeance and the
+Juryman, looking after her as she walked away, were highly appreciative
+of her fine figure, and her superb moral endowments.
+On one
+of the fore-most chairs, stands The Vengeance, looking about for her
+friend.
+The Vengeance, petulantly.
+Louder, Vengeance, much louder, and still she will scarcely hear
+thee.
+Louder yet, Vengeance, with a little oath or so added, and yet
+it will hardly bring her.
+The Vengeance, stamping her foot in the chair,
+"and here are the tumbrils!
+As The Vengeance descends from her elevation to do it, the tumbrils
+begin to discharge their loads.
+If he
+had given any utterance to his, and they were prophetic, they would
+have been these:
+
+"I see Barsad, and Cly, Defarge, The Vengeance, the Juryman, the
+Judge, long ranks of the new oppressors who have risen on the
+destruction of the old, perishing by this retributive instrument,
+before it shall cease out of its present use.
+
+
+5. java-algs4 Harvester "[A-Z][^\\.;\\?\\!]*\bperson\b|\bproletariat\b[^\\.;\\?\\!]*." manifesto.txt
+proletariat,
+the modern working class, developed -- a class of
+labourers, who live only so long as they find work, and
+who find work only so long as their labour increases
+capital.
+proletariat, partly because their
+diminutive capital does not suffice for the scale on
+which Modern Industry is carried on, and is swamped in
+the competition with the large capitalists, partly
+because their specialized skill is rendered worthless
+by the new methods of production.
+proletariat
+is recruited from all classes of the population.
+proletariat goes through various stages of
+development.
+proletariat in motion, and is moreover yet, for a time,
+able to do so.
+proletariat
+not only increases in number;
+proletariat
+are more and more equalised, in proportion as machinery
+obliterates all distinctions of labour, and nearly
+everywhere reduces wages to the same low level.
+proletariat.
+proletariat, to ask for its help, and thus, to drag it
+into the political arena.
+proletariat with its own
+instruments of political and general education, in
+other words, it furnishes the proletariat with weapons
+for fighting the bourgeoisie.
+proletariat, or are at least
+threatened in their conditions of existence.
+proletariat with fresh elements of
+enlightenment and progress.
+proletariat, and in
+particular, a portion of the bourgeois ideologists, who
+have raised themselves to the level of comprehending
+theoretically the historical movement as a whole.
+proletariat alone is a really
+revolutionary class.
+proletariat is its special and essential product.
+proletariat, they thus
+defend not their present, but their future interests,
+they desert their own standpoint to place themselves at
+that of the proletariat.
+proletariat, those of old
+society at large are already virtually swamped.
+proletariat, the lowest
+stratum of our present society, cannot stir, cannot
+raise itself up, without the whole superincumbent
+strata of official society being sprung into the air.
+proletariat with the bourgeoisie is at first a
+national struggle.
+proletariat of each country
+must, of course, first of all settle matters with its
+own bourgeoisie.
+proletariat, we traced the more or less veiled
+civil war, raging within existing society, up to the
+point where that war breaks out into open revolution,
+and where the violent overthrow of the bourgeoisie lays
+the foundation for the sway of the proletariat.
+proletariat are equally inevitable.
+proletariat as a whole.
+proletariat, independently
+of nationality.
+proletariat the advantage of clearly understanding
+the line of march, the conditions, and the ultimate
+general results of the proletarian movement.
+proletariat into a class, overthrow of the bourgeois
+supremacy, conquest of political power by the
+proletariat.
+In bourgeois society capital is independent
+and has individuality, while the living person
+You must, therefore, confess that by "individual" you
+mean no other person
+This person
+proletariat
+must first of all acquire political supremacy, must
+rise to be the leading class of the nation, must
+constitute itself the nation, it is, so far, itself
+national, though not in the bourgeois sense of the
+word.
+proletariat will cause them to
+vanish still faster.
+proletariat.
+proletariat to the position of ruling as to win the
+battle of democracy.
+proletariat will use its political supremacy top
+wrest, by degrees, all capital from the bourgeoisie, to
+centralise all instruments of production in the hands
+of the State, i.
+proletariat organised as the
+ruling class;
+proletariat during its contest with
+the bourgeoisie is compelled, by the force of
+circumstances, to organise itself as a class, if, by
+means of a revolution, it makes itself the ruling
+class, and, as such, sweeps away by force the old
+conditions of production, then it will, along with
+these conditions, have swept away the conditions for
+the existence of class antagonisms and of classes
+generally, and will thereby have abolished its own
+supremacy as a class.
+proletariat never existed, they forget that the
+modern bourgeoisie is the necessary offspring of their
+own form of society.
+proletariat, as that it creates a
+revolutionary proletariat.
+proletariat and bourgeoisie
+and ever renewing itself as a supplementary part of
+bourgeois society.
+proletariat by the action of competition, and, as
+modern industry develops, they even see the moment
+approaching when they will completely disappear as an
+independent section of modern society, to be replaced,
+in manufactures, agriculture and commerce, by
+overlookers, bailiffs and shopmen.
+proletariat against the
+bourgeoisie, should use, in their criticism of the
+bourgeois regime, the standard of the peasant and petty
+bourgeois, and from the standpoint of these
+intermediate classes should take up the cudgels for the
+working class.
+proletariat, the anarchy in production,
+the crying inequalities in the distribution of wealth,
+the industrial war of extermination between nations,
+the dissolution of old moral bonds, of the old family
+relations, of the old nationalities.
+proletariat, but the interests
+of Human Nature, of Man in general, who belongs to no
+class, has no reality, who exists only in the misty
+realm of philosophical fantasy.
+proletariat.
+proletariat.
+proletariat to
+carry out such a system, and thereby to march
+straightway into the social New Jerusalem, it but
+requires in reality, that the proletariat should remain
+within the bounds of existing society, but should cast
+away all its hateful ideas concerning the bourgeoisie.
+proletariat, such as the writings of
+Babeuf and others.
+proletariat to attain
+its own ends, made in times of universal excitement,
+when feudal society was being overthrown, these
+attempts necessarily failed, owing to the then
+undeveloped state of the proletariat, as well as to the
+absence of the economic conditions for its
+emancipation, conditions that had yet to be produced,
+and could be produced by the impending bourgeois epoch
+alone.
+proletariat had
+necessarily a reactionary character.
+proletariat
+and bourgeoisie (see Section 1.
+proletariat, as yet in its infancy, offers to them the
+spectacle of a class without any historical initiative
+or any independent political movement.
+proletariat.
+proletariat to
+the organisation of society specially contrived by
+these inventors.
+proletariat exist for them.
+proletariat is still in a very
+undeveloped state and has but a fantastic conception of
+its own position correspond with the first instinctive
+yearnings of that class for a general reconstruction of
+society.
+proletariat.
+proletariat, in order that the German
+workers may straightaway use, as so many weapons
+against the bourgeoisie, the social and political
+conditions that the bourgeoisie must necessarily
+introduce along with its supremacy, and in order that,
+after the fall of the reactionary classes in Germany,
+the fight against the bourgeoisie itself may
+immediately begin.
+proletariat, than that of England
+was in the seventeenth, and of France in the eighteenth
+century, and because the bourgeois revolution in
+Germany will be but the prelude to an immediately
+following proletarian revolution.
+
+6. java-algs4 Harvester "[A-Z][^\\.;\\?\\!]*\bbourgeois\b [a-z]*\bsociety\b[^\\.;\\?\\!]*." manifesto.txt
+The modern bourgeois society that has sprouted from the
+ruins of feudal society has not done away with clash
+antagonisms.
+Modern bourgeois society with its relations of
+production, of exchange and of property, a society that
+has conjured up such gigantic means of production and
+of exchange, is like the sorcerer, who is no longer
+able to control the powers of the nether world whom he
+has called up by his spells.
+It is enough to
+mention the commercial crises that by their periodical
+return put on its trial, each time more threateningly,
+the existence of the entire bourgeois society.
+The conditions of bourgeois society are too narrow to
+comprise the wealth created by them.
+In bourgeois society, living labour is but a means to
+increase accumulated labour.
+In bourgeois society, therefore, the past dominates the
+present;
+In bourgeois society capital is independent
+and has individuality, while the living person is
+dependent and has no individuality.
+According to this, bourgeois society ought long ago to
+have gone to the dogs through sheer idleness;
+In place of the old bourgeois society, with its classes
+and class antagonisms, we shall have an association, in
+which the free development of each is the condition for
+the free development of all.
+Feudal Socialism
+
+
+Owing to their historical position, it became the
+vocation of the aristocracies of France and England to
+write pamphlets against modern bourgeois society.
+Petty-Bourgeois Socialism
+
+The feudal aristocracy was not the only class that has
+ruined by the bourgeoisie, not the only class whose
+conditions of existence pined and perished in the
+atmosphere of modern bourgeois society.
+In countries where modern civilisation has become fully
+developed, a new class of petty bourgeois has been
+formed, fluctuating between proletariat and bourgeoisie
+and ever renewing itself as a supplementary part of
+bourgeois society.
+German Socialism forgot,
+in the nick of time, that the French criticism, whose
+silly echo it was, presupposed the existence of modern
+bourgeois society, with its corresponding economic
+conditions of existence, and the political constitution
+adapted thereto, the very things whose attainment was
+the object of the pending struggle in Germany.
+CONSERVATIVE, OR BOURGEOIS, SOCIALISM
+
+A part of the bourgeoisie is desirous of redressing
+social grievances, in order to secure the continued
+existence of bourgeois society.
+
+7. java-algs4 Harvester "[A-Z][^\\.;\\?\\!]*Tiny Tim[^\\.;\\?\\!]*." dickens.txt
+And your brother, Tiny Tim.
+Alas for Tiny Tim, he bore a little crutch, and
+had his limbs supported by an iron frame.
+Cratchits
+hustled Tiny Tim, and bore him off into the wash-house,
+that he might hear the pudding singing in the copper.
+Bob's voice was tremulous when he told them this, and
+trembled more when he said that Tiny Tim was growing
+strong and hearty.
+His active little crutch was heard upon the floor, and back
+came Tiny Tim before another word was spoken, escorted by
+his brother and sister to his stool before the fire;
+Bob took Tiny Tim beside him in a tiny
+corner at the table;
+Spirit,' said Scrooge, with an interest he had never felt
+before, `tell me if Tiny Tim will live.
+Spirit's torch at parting, Scrooge had his eye upon
+them, and especially on Tiny Tim, until the last.
+Ah, poor Tiny Tim.
+At last she said, and in a
+steady, cheerful voice, that only faltered once:
+
+`I have known him walk with--I have known him walk
+with Tiny Tim upon his shoulder, very fast indeed.
+It really seemed as if he had known our
+Tiny Tim, and felt with us.
+But however
+and when ever we part from one another, I am sure we
+shall none of us forget poor Tiny Tim--shall we--or this
+first parting that there was among us.
+Spirit of Tiny Tim, thy childish essence was from
+God.
+It's twice the size of Tiny Tim.
+And so, as Tiny Tim
+observed, God bless Us, Every One!
+
+8. java-algs4 Harvester "(GCC){26,}" chromosome4.txt
+
+9. java-algs4 Harvester "[A-Z][^\\.;\\?\\!]*lchabod[^\\.;\\?\\!]*." sleepy_hollow.txt
+
+10. java-algs4 Harvester "[A-Z][^\\.;\\?\\!]*Gunpowder[^\\.;\\?\\!]*." sleepy_hollow.txt
+Still he must have had fire and
+mettle in his day, if we may judge from the name he bore of Gunpowder.
+The schoolmaster now bestowed both whip and
+heel upon the starveling ribs of old Gunpowder, who dashed forward,
+snuffling and snorting, but came to a stand just by the bridge, with a
+suddenness that had nearly sent his rider sprawling over his head.
+Once more he cudgelled the sides
+of the inflexible Gunpowder, and, shutting his eyes, broke forth with
+involuntary fervor into a psalm tune.
+He made no offer of molestation or sociability,
+but kept aloof on one side of the road, jogging along on the blind side
+of old Gunpowder, who had now got over his fright and waywardness.
+Another convulsive kick in the ribs, and
+old Gunpowder sprang upon the bridge;
+It encountered his cranium
+with a tremendous crash,--he was tumbled headlong into the dust, and
+Gunpowder, the black steed, and the goblin rider, passed by like a
+whirlwind.

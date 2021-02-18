@@ -1,8 +1,10 @@
-"[\w-\.]+@([\w-]+\.)+[\w-]{2,4}" https://www.callutheran.edu/directory
-
-(GCC){26,} chromosome4.txt
-
-"[A-Z][^\\.;\\?\\!]*(\bperson\b|\bproletariat\b)[^\\.;\\?\\!]*" manifesto.txt
-
-
-"[A-Z][^\\.;\\?\\!]*bourgeois [a-z]*society[^\\.;\\?\\!]*" manifesto.txt
+1.  "[\w-\.]+@([\w-]+\.)+[\w-]{2,4}" https://www.callutheran.edu/directory
+2.  "(http(s)?:\/\/.)(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)" https://www.callutheran.edu/directory
+3.  "(\+\d{1,2}\s?)?1?\-?\.?\s?\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}" https://www.callutheran.edu/directory
+4.  "[A-Z][^\\.;\\?\\!]*\bVengeance\b[^\\.;\\?\\!]*." tale.txt
+5.  "[A-Z][^\\.;\\?\\!]*\bperson\b|\bproletariat\b[^\\.;\\?\\!]*." manifesto.txt
+6.  "[A-Z][^\\.;\\?\\!]*\bbourgeois\b [a-z]*\bsociety\b[^\\.;\\?\\!]*." manifesto.txt
+7.  "[A-Z][^\\.;\\?\\!]*Tiny Tim[^\\.;\\?\\!]*." dickens.txt
+8.  "(GCC){26,}" chromosome4.txt
+9.  "[A-Z][^\\.;\\?\\!]*lchabod[^\\.;\\?\\!]*." sleepy_hollow.txt
+10.  "[A-Z][^\\.;\\?\\!]*Gunpowder[^\\.;\\?\\!]*." sleepy_hollow.txt
